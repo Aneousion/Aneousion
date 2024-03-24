@@ -1,8 +1,8 @@
-# Hi there, I'm Aneousion 👋
+# Hi, I'm Aneousion 👋
 
 ### A full stack developer well-versed in Python, web-apps and bots development. 
 
-![walt]("https://tenor.com/view/walter-white-cooking-gif-25702406")
+<p align='center' ><img width="200" src="walter-white-cooking.gif" /></p>
 
 - 🔭 I’m currently working on **Relay, A bot built on Telegram and Discord that allows users to chat with random Telegram or Discord Users**.
 
@@ -11,6 +11,6 @@
 - 👯 I’m looking to collaborate on any project involving Python, JS/TS and Flutter.
   
 - 📫 How to reach me: [Aneousion](https://x.com/aneousion)
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneousion&hide_progress=true&theme=transparent" width="50%"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneousion&hide_progress=true&theme=transparent" width="50%"/>
 </p>
