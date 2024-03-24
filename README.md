@@ -12,5 +12,5 @@
   
 - 📫 How to reach me: [Aneousion](https://x.com/aneousion)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneousion&hide_progress=true&theme=transparent" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneousion&hide_progress=true&theme=transparent" width="60%"/>
 </p>
