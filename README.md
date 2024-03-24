@@ -1,6 +1,6 @@
 # Hi, I'm Aneousion 👋
 
-### A full stack developer well-versed in Python, web-apps and bots development. 
+### A full stack software developer and a Biomedical Scientist 
 
 <p align='center' ><img width="200" src="walter-white-cooking.gif" /></p>
 
