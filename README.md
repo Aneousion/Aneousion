@@ -4,7 +4,7 @@
 
 <p align='center' ><img width="200" src="walter-white-cooking.gif" /></p>
 
-- 🔭 I’m currently working on **Relay, A bot built on Telegram and Discord that allows users to chat with random Telegram or Discord Users**.
+- 🔭 I’m currently working on **[Relay](https://top.gg/bot/1064216747248455680?s=0dc89943404d5), A bot built on Telegram and Discord that allows users to chat with random Telegram or Discord Users**.
 
 - 🌱 I’m currently learning Bioinformatics, Genomics Data Science and Flutter.
   
