@@ -1,6 +1,6 @@
 # Hi, I'm Aneousion 👋
 
-### A Full-stack Software Developer and a Biomedical Scientist.
+### A Software Developer and a Biomedical Scientist.
 
 <p align='center' ><img width="200" src="walter-white-cooking.gif" /></p>
 
